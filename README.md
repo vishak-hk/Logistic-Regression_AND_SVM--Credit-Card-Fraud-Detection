@@ -1,1 +1,1 @@
-# Logistic-Regression_AND_SVM----Credit-Card-Fraud-Detection
+# Logistic Regression & SVM for Credit Card Fraud Detection
